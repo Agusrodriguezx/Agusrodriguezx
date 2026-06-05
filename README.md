@@ -6,4 +6,4 @@
 
 
 # Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,selenium,postman,cypress,sqlite,git,github,githubactions,jira,linux,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,selenium,postman,cypress,sqlite,git,github,githubactions,linux,html,css,js)](https://skillicons.dev)
